@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Environment and sensitive credentials
+.env
+.env.*
+*.pem
+*.key
+*.token
+
+# OS & Editor files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Large Datasets & Archives
+*.zip
+*.tar.gz
+*.rar
+Pineapple defect detection 2.v7i.yolov8/
+dunno wer to put/
+
+# FYP Viva, Academic Reports & Presentations (Private context documents)
+*.pdf
+*.pptx
+*.docx
+*.doc
+Viva prep/
+research Papers/
+sent dissertation and technical paper/
